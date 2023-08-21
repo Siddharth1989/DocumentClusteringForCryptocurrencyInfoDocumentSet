@@ -1,4 +1,4 @@
-# DocumentClusteringForCryptocurrencyInfoDocumentSet
+# Document Clustering For Cryptocurrency Info Document Set
 This project implements document clustering with the EM (Expectation-Maximization) algorithm for a Cryptocurrency Information Document Set.
 
 In this project, I have solved a document clustering problem for a data set that contains text from multiple documents sourced from the SCI Cryptocurrency community. I used two versions of the unsupervised learning algorithm, EM called Hard clustering and soft clustering. 
